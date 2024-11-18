@@ -1,7 +1,6 @@
 import { getDefaultConfig } from "@rainbow-me/rainbowkit";
 import {
-  sepolia,
-  taikoHekla
+  taikoHekla,
 } from "wagmi/chains";
 import { http } from 'wagmi';
 // import { taikoHekla as taikotemp } from "viem/_types/chains";
